@@ -73,7 +73,7 @@ section {
   padding-right: 10px;
   height: 400px;
   width: 400px;
-  background-color: #edf5f6;
+  background-color: #9cd3da;
 }
 .block2 {
   border-radius: 20px;
@@ -81,7 +81,7 @@ section {
   padding-right: 10px;
   height: 400px;
   width: 400px;
-  background-color: #ffeeee;
+  background-color: #daa2a2;
 }
 .block3 {
   border-radius: 20px;
@@ -89,7 +89,7 @@ section {
   padding-right: 40px;
   height: 400px;
   width: 400px;
-  background-color: #fff4d6;
+  background-color: #e9d49b;
 }
 .dev-sec {
   display: flex;
