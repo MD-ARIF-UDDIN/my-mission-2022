@@ -137,6 +137,17 @@ footer span {
 #sp2 {
   color: brown;
 }
+#learn {
+  text-align: center;
+  font-size: 45px;
+  color: black;
+}
+#learn span {
+  color: brown;
+}
+.final-title {
+  color: brown;
+}
 footer p {
   font-size: 12px;
   color: white;
